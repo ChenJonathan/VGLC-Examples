@@ -1,10 +1,8 @@
 # VGLC Examples
----
 
 Some introductory-level machine learning projects that make use of the Video Game Level Corpus.
 
 ## Usage
----
 
 The Video Game Level Corpus used for these examples can be found [here](https://github.com/TheVGLC/TheVGLC).
 
